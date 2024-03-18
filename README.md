@@ -12,7 +12,8 @@
 - Data science
 - Algorithm Design
 - Linux System Administration
-- Cybersecurity Tools
+- Cybersecurity
+- Networking
 
 ### Languages
 - Bengali (Native/Bilingual)
