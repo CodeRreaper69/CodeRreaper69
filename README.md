@@ -75,4 +75,4 @@
 
 ---
 
-# TechInnovation | AI & ML | Cybersecurity | Automation | Blockchain | Python | Neural Networks
+# Data Science  | AI & ML | Cybersecurity | Automation |  | Python | Neural Networks |Bash | Linux | Kali | Ubuntu
