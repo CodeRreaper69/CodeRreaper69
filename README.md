@@ -75,4 +75,4 @@
 
 ---
 
-# Data Science  | AI & ML | Cybersecurity | Automation |  | Python | Neural Networks |Bash | Linux | Kali | Ubuntu
+# Data Science | AI & ML | Cybersecurity | Automation | Python | Neural Networks | Bash | Linux | Kali | Ubuntu
