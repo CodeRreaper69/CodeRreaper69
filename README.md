@@ -1,11 +1,10 @@
 <!-- Header Section -->
 <h1 align="center">
-  <img src="https://i.imgur.com/nVzkN9o.png" alt="Sourabh Dey">
+  <img src="https://github.com/CodeRreaper69/resume/blob/main/me.png" alt="Your Name">
   <br>
   Sourabh Dey
 </h1>
-
-<h3 align="center">Tech Enthusiast | AI & ML Enthusiast | Cybersecurity Specialist</h3>
+<h2 align="center">Tech Enthusiast | AI & ML Enthusiast | Cybersecurity Specialist</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sourabh-dey">
