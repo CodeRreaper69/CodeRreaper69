@@ -1,21 +1,25 @@
-# Sourabh Dey
-
+<!-- Header Section -->
+# <span style="color:blue">Sourabh Dey</span>
 ## Tech Enthusiast | AI & ML Enthusiast | Cybersecurity Specialist
 
-📍 Kolkata, West Bengal, India | 📧 deysourabh8981@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/sourabh-dey)
+![Location](https://img.shields.io/badge/Location-Kolkata%2C%20India-blue)
+![Email](https://img.shields.io/badge/Email-deysourabh8981%40gmail.com-blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sourabh-dey)
 
 ---
 
-### Top Skills
-- ML
-- Deep learning
-- Data science
-- Algorithm Design
-- Linux System Administration
-- Cybersecurity
-- Networking
+<!-- Top Skills Section -->
+### <span style="color:green">Top Skills</span>
+- <span style="color:orange">Machine Learning</span>
+- <span style="color:orange">Deep Learning</span>
+- <span style="color:orange">Data Science</span>
+- <span style="color:orange">Algorithm Design</span>
+- <span style="color:orange">Linux System Administration</span>
+- <span style="color:orange">Cybersecurity</span>
+- <span style="color:orange">Networking</span>
 
-### Languages
+<!-- Languages Section -->
+### <span style="color:green">Languages</span>
 - Bengali (Native/Bilingual)
 - Hindi (Professional Working)
 - Assamese (Elementary)
@@ -24,7 +28,8 @@
 
 ---
 
-## Certifications
+<!-- Certifications Section -->
+## <span style="color:green">Certifications</span>
 - Python For AI and Data Science
 - Data Science
 - Statistical and Probability foundations
@@ -35,7 +40,8 @@
 
 ---
 
-## Experience
+<!-- Experience Section -->
+## <span style="color:green">Experience</span>
 
 ### CodeClause (JAVA Intern)
 📅 March 2024 - Present (1 month)
@@ -53,7 +59,8 @@
 
 ---
 
-## Education
+<!-- Education Section -->
+## <span style="color:green">Education</span>
 - **Bachelor of Technology (BTech) in Computer Science**
   - Institute Of Engineering and Management (2022 - 2026)
 - **Bachelor of Technology (BTech) in Mathematics and Computer Science**
@@ -63,7 +70,8 @@
 
 ---
 
-## Summary
+<!-- Summary Section -->
+## <span style="color:green">Summary</span>
 - 💡 Passionate tech enthusiast with a focus on automation, machine learning, and AI.
 - 🛡️ Cybersecurity specialist skilled in securing systems against vulnerabilities.
 - 🌟 Innovative thinker with hands-on experience in neural networks and data science.
@@ -71,8 +79,10 @@
 
 ---
 
-# Let's Connect and Innovate Together! 🚀
+<!-- Let's Connect Section -->
+# <span style="color:green">Let's Connect and Innovate Together! 🚀</span>
 
 ---
 
-# Data Science | AI & ML | Cybersecurity | Automation | Python | Neural Networks | Bash | Linux | Kali | Ubuntu
+<!-- Tags Section -->
+# <span style="color:green">Data Science | AI & ML | Cybersecurity | Automation | Python | Neural Networks | Bash | Linux | Kali | Ubuntu</span>
