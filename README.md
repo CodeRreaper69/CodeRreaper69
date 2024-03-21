@@ -1,88 +1,103 @@
 <!-- Header Section -->
-# <span style="color:blue">Sourabh Dey</span>
-## Tech Enthusiast | AI & ML Enthusiast | Cybersecurity Specialist
+<h1 style="color:#4CAF50;">Sourabh Dey</h1>
+<h2>Tech Enthusiast | AI & ML Enthusiast | Cybersecurity Specialist</h2>
 
-![Location](https://img.shields.io/badge/Location-Kolkata%2C%20India-blue)
-![Email](https://img.shields.io/badge/Email-deysourabh8981%40gmail.com-blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sourabh-dey)
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-blue" alt="Location">
+  <img src="https://img.shields.io/badge/Email-deysourabh8981%40gmail.com-blue" alt="Email">
+  <a href="https://www.linkedin.com/in/sourabh-dey">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
 <!-- Top Skills Section -->
-### <span style="color:green">Top Skills</span>
-- <span style="color:orange">Machine Learning</span>
-- <span style="color:orange">Deep Learning</span>
-- <span style="color:orange">Data Science</span>
-- <span style="color:orange">Algorithm Design</span>
-- <span style="color:orange">Linux System Administration</span>
-- <span style="color:orange">Cybersecurity</span>
-- <span style="color:orange">Networking</span>
+<h3 style="color:#FF5722;">Top Skills</h3>
+<ul>
+  <li><span style="color:#FF9800;">Machine Learning</span></li>
+  <li><span style="color:#FF9800;">Deep Learning</span></li>
+  <li><span style="color:#FF9800;">Data Science</span></li>
+  <li><span style="color:#FF9800;">Algorithm Design</span></li>
+  <li><span style="color:#FF9800;">Linux System Administration</span></li>
+  <li><span style="color:#FF9800;">Cybersecurity</span></li>
+  <li><span style="color:#FF9800;">Networking</span></li>
+</ul>
 
 <!-- Languages Section -->
-### <span style="color:green">Languages</span>
-- Bengali (Native/Bilingual)
-- Hindi (Professional Working)
-- Assamese (Elementary)
-- English (Full Professional)
-- German (Elementary)
+<h3 style="color:#FF5722;">Languages</h3>
+<ul>
+  <li>Bengali (Native/Bilingual)</li>
+  <li>Hindi (Professional Working)</li>
+  <li>Assamese (Elementary)</li>
+  <li>English (Full Professional)</li>
+  <li>German (Elementary)</li>
+</ul>
 
 ---
 
 <!-- Certifications Section -->
-## <span style="color:green">Certifications</span>
-- Python For AI and Data Science
-- Data Science
-- Statistical and Probability foundations
-- Quality and Reliability Engineering
-- Generative AI: The Evolution of Thoughtful Online Search
-- Linux (KALI, UBUNTU, ARCH)
-- Automation(Python, Bash, conf)
+<h2 style="color:#FF5722;">Certifications</h2>
+<ul>
+  <li>Python For AI and Data Science</li>
+  <li>Data Science</li>
+  <li>Statistical and Probability foundations</li>
+  <li>Quality and Reliability Engineering</li>
+  <li>Generative AI: The Evolution of Thoughtful Online Search</li>
+  <li>Linux (KALI, UBUNTU, ARCH)</li>
+  <li>Automation (Python, Bash, conf)</li>
+</ul>
 
 ---
 
 <!-- Experience Section -->
-## <span style="color:green">Experience</span>
+<h2 style="color:#FF5722;">Experience</h2>
 
-### CodeClause (JAVA Intern)
-📅 March 2024 - Present (1 month)
+<h3>CodeClause (JAVA Intern)</h3>
+<p>📅 March 2024 - Present (1 month)</p>
 
-### CodeAlpha (Internship)
-📅 March 2024 - Present (1 month)
+<h3>CodeAlpha (Internship)</h3>
+<p>📅 March 2024 - Present (1 month)</p>
 
-### CodSoft (Data Science Intern)
-📅 February 2024 - March 2024 (2 months)
-- Hands-on experience with data pre-processing, data filtering, and Kaggle datasets.
+<h3>CodSoft (Data Science Intern)</h3>
+<p>📅 February 2024 - March 2024 (2 months)<br>
+- Hands-on experience with data pre-processing, data filtering, and Kaggle datasets.</p>
 
-### Prodigy InfoTech (Machine Learning Intern)
-📅 February 2024 - March 2024 (2 months)
-- Specialized in neural networks for facial recognition and gestures.
+<h3>Prodigy InfoTech (Machine Learning Intern)</h3>
+<p>📅 February 2024 - March 2024 (2 months)<br>
+- Specialized in neural networks for facial recognition and gestures.</p>
 
 ---
 
 <!-- Education Section -->
-## <span style="color:green">Education</span>
-- **Bachelor of Technology (BTech) in Computer Science**
-  - Institute Of Engineering and Management (2022 - 2026)
-- **Bachelor of Technology (BTech) in Mathematics and Computer Science**
-  - Maulana Abul Kalam Azad University of Technology, West Bengal (2022 - 2026)
-- **Secondary Education in Mathematics and Computer Science**
-  - Kendriya Vidyalaya (2009 - 2021)
+<h2 style="color:#FF5722;">Education</h2>
+<ul>
+  <li><strong>Bachelor of Technology (BTech) in Computer Science</strong><br>
+    Institute Of Engineering and Management (2022 - 2026)</li>
+  <li><strong>Bachelor of Technology (BTech) in Mathematics and Computer Science</strong><br>
+    Maulana Abul Kalam Azad University of Technology, West Bengal (2022 - 2026)</li>
+  <li><strong>Secondary Education in Mathematics and Computer Science</strong><br>
+    Kendriya Vidyalaya (2009 - 2021)</li>
+</ul>
 
 ---
 
 <!-- Summary Section -->
-## <span style="color:green">Summary</span>
-- 💡 Passionate tech enthusiast with a focus on automation, machine learning, and AI.
-- 🛡️ Cybersecurity specialist skilled in securing systems against vulnerabilities.
-- 🌟 Innovative thinker with hands-on experience in neural networks and data science.
-- 🎓 Committed to continuous learning and professional growth.
+<h2 style="color:#FF5722;">Summary</h2>
+<ul>
+  <li>💡 Passionate tech enthusiast with a focus on automation, machine learning, and AI.</li>
+  <li>🛡️ Cybersecurity specialist skilled in securing systems against vulnerabilities.</li>
+  <li>🌟 Innovative thinker with hands-on experience in neural networks and data science.</li>
+  <li>🎓 Committed to continuous learning and professional growth.</li>
+</ul>
 
 ---
 
 <!-- Let's Connect Section -->
-# <span style="color:green">Let's Connect and Innovate Together! 🚀</span>
+<h1 style="color:#4CAF50;">Let's Connect and Innovate Together! 🚀</h1>
 
 ---
 
 <!-- Tags Section -->
-# <span style="color:green">Data Science | AI & ML | Cybersecurity | Automation | Python | Neural Networks | Bash | Linux | Kali | Ubuntu</span>
+<h2 style="color:#FF5722;">Tags</h2>
+<p style="color:#FF9800;">Data Science | AI & ML | Cybersecurity | Automation | Python | Neural Networks | Bash | Linux | Kali | Ubuntu</p>
