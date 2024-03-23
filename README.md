@@ -31,18 +31,17 @@
 
 <!-- Languages Section -->
 ## 🌐 Languages
-- Bengali (Native/Bilingual)
-- Hindi (Professional Working)
-- Assamese (Elementary)
 - English (Full Professional)
 - German (Elementary)
-
+- Hindi (Professional Working)
+- Bengali (Native/Bilingual)
+- Assamese (Elementary)
 ---
 
 <!-- Certifications Section -->
 ## 🎓 Certifications
 - Python For AI and Data Science
-- Data Science
+- Data Science in using Python
 - Statistical and Probability foundations
 - Quality and Reliability Engineering
 - Generative AI: The Evolution of Thoughtful Online Search
@@ -54,28 +53,25 @@
 <!-- Experience Section -->
 ## 💻 Experience
 
+### Prodigy InfoTech (Machine Learning Intern)
+📅 February 2024 - March 2024 (1 months)
+- Specialized in neural networks for facial recognition and gestures.
+
+### CodSoft (Data Science Intern)
+📅 February 2024 - March 2024 (1 months)
+- Hands-on experience with data pre-processing, data filtering, and Kaggle datasets.
+
 ### CodeClause (JAVA Intern)
 📅 March 2024 - Present (1 month)
 
-### CodeAlpha (Internship)
+### CodeAlpha (CyberSecurity Intern)
 📅 March 2024 - Present (1 month)
-
-### CodSoft (Data Science Intern)
-📅 February 2024 - March 2024 (2 months)
-- Hands-on experience with data pre-processing, data filtering, and Kaggle datasets.
-
-### Prodigy InfoTech (Machine Learning Intern)
-📅 February 2024 - March 2024 (2 months)
-- Specialized in neural networks for facial recognition and gestures.
-
 ---
 
 <!-- Education Section -->
 ## 🎓 Education
 - **Bachelor of Technology (BTech) in Computer Science**
-  - Institute Of Engineering and Management (2022 - 2026)
-- **Bachelor of Technology (BTech) in Mathematics and Computer Science**
-  - Maulana Abul Kalam Azad University of Technology, West Bengal (2022 - 2026)
+  - Institute Of Engineering and Management (2022 - 2026)(Under MAKAUT)
 - **Secondary Education in Mathematics and Computer Science**
   - Kendriya Vidyalaya (2009 - 2021)
 
