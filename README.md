@@ -53,20 +53,11 @@
 <!-- Experience Section -->
 ## 💻 Experience
 
-### Prodigy InfoTech (Machine Learning Intern)
-📅 February 2024 - March 2024 (1 months)
-- Specialized in neural networks for facial recognition and gestures.
+- **TEOCO Software PRIVATE LIMITED**
+  AUTOMATION ENGINEER, DATA SCRAPPING, EDA
 
-### CodSoft (Data Science Intern)
-📅 February 2024 - March 2024 (1 months)
-- Hands-on experience with data pre-processing, data filtering, and Kaggle datasets.
-
-### CodeClause (JAVA Intern)
-📅 March 2024 - Present (1 month)
-
-### CodeAlpha (CyberSecurity Intern)
-📅 March 2024 - Present (1 month)
----
+- **SYNTALIX**
+  MACHINE LEARNING INTERN,now working there as a part time Machine Learning Developer
 
 <!-- Education Section -->
 ## 🎓 Education
