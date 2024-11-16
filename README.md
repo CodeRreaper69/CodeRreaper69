@@ -26,6 +26,10 @@
 - Linux System Administration
 - Cybersecurity
 - Networking
+- Automation
+- Webscraping
+- Android Development
+- Reverse Engineering 
 
 ---
 
@@ -58,6 +62,9 @@
 
 - **SYNTALIX**
   MACHINE LEARNING INTERN,now working there as a part time Machine Learning Developer
+
+- **FREELANCING**
+ Delivered full stack Android Applications, fine tuned Models, Workflow code.
 
 <!-- Education Section -->
 ## 🎓 Education
