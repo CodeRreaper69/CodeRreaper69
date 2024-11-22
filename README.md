@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">
-  <img src="https://github.com/CodeRreaper69/Resources/blob/main/sharpen_IMG_20240319_122135_999.png" alt="Your Name">
+  <img src="https://github.com/CodeRreaper69/Resources/blob/main/sharpen_IMG_20240319_122135_999.png" alt="Sourabh Dey">
   <br>
   Sourabh Dey
 </h1>
