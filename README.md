@@ -63,7 +63,7 @@
   AUTOMATION ENGINEER, DATA SCRAPPING, EDA
 
 - **SYNTALIX**
-  MACHINE LEARNING INTERN,now working there as a part time Machine Learning Developer
+  MACHINE LEARNING DEVELOPER, working there as a part time Machine Learning Engineer, developing ML pipelines, Agents.
 
 - **FREELANCING**
  Delivered full stack Android Applications, fine tuned Models, Workflow code.
