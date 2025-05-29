@@ -56,6 +56,8 @@
 
 <!-- Experience Section -->
 ## 💻 Experience
+- **CLOUDIFYOPS**
+ AI Intern, DevOps, MLOps, Agentic AI
 
 - **TEOCO Software PRIVATE LIMITED**
   AUTOMATION ENGINEER, DATA SCRAPPING, EDA
