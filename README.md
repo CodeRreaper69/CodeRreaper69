@@ -78,12 +78,12 @@
 ---
 
 <!-- Summary Section -->
-## 🌟 Summary
-- Passionate tech enthusiast with a focus on automation, machine learning, and AI.
-- Cybersecurity specialist skilled in securing systems against vulnerabilities.
-- Innovative thinker with hands-on experience in neural networks and data science.
+## Summary
+- Passionate tech geek with a focus on automation, machine learning, and AI.
 - Committed to continuous learning and professional growth.
-
+- I do a lot of prompt engineering with one constant prompt - "Explain everything you have done till now!"
+- If you can define your problem properly to me, I can refine it for sure! 
+- I play music also, and YES I play strings of my ukulele.
 ---
 
 <!-- Let's Connect Section -->
