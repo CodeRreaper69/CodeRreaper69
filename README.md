@@ -4,7 +4,7 @@
   <br>
   Sourabh Dey
 </h1>
-<h2 align="center">Tech Enthusiast | AI & ML Enthusiast | Cybersecurity Specialist</h2>
+<h2 align="center">Tech Enthusiast | AI & ML Enthusiast | Cybersecurity | DevOps | Cloud Computing</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sourabh-dey">
@@ -17,15 +17,15 @@
 
 ---
 
-<!-- Top Skills Section -->
-## 💼 Top Skills
+<!-- skills section -->
+## What I know and I use sort of
 - Machine Learning
+- Cloud Computing 
+- AI Agents
 - Deep Learning
 - Data Science
 - Algorithm Design
-- Linux System Administration
-- Cybersecurity
-- Networking
+- Linux
 - Automation
 - Webscraping
 - Android Development
@@ -33,8 +33,8 @@
 
 ---
 
-<!-- Languages Section -->
-## 🌐 Languages
+<!-- languages section -->
+## What I speak and understand sort of
 - English (Full Professional)
 - German (Elementary)
 - Hindi (Professional Working)
@@ -42,22 +42,10 @@
 - Assamese (Elementary)
 ---
 
-<!-- Certifications Section -->
-## 🎓 Certifications
-- Python For AI and Data Science
-- Data Science in using Python
-- Statistical and Probability foundations
-- Quality and Reliability Engineering
-- Generative AI: The Evolution of Thoughtful Online Search
-- Linux (KALI, UBUNTU, ARCH)
-- Automation(Python, Bash, conf)
-
----
-
 <!-- Experience Section -->
 ## 💻 Experience
 - **CLOUDIFYOPS**
- AI Intern, DevOps, MLOps, Agentic AI
+ AI Intern, DevOps, MLOps, Agentic AI, AWS and Infra.
 
 - **TEOCO Software PRIVATE LIMITED**
   AUTOMATION ENGINEER, DATA SCRAPPING, EDA
