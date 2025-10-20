@@ -44,6 +44,9 @@
 
 <!-- Experience Section -->
 ## 💻 Experience
+- **KEYSIGHT TECHNOLOGIES**
+ R&D Intern in AI and 6G
+
 - **CLOUDIFYOPS**
  AI Intern, DevOps, MLOps, Agentic AI, AWS and Infra.
 
