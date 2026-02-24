@@ -4,7 +4,7 @@
   <br>
   Sourabh Dey
 </h1>
-<h2 align="center">Tech Enthusiast | AI & ML Enthusiast | Cybersecurity | DevOps | Cloud Computing</h2>
+<h2 align="center">Tech Enthusiast | AI & ML Enthusiast | Cybersecurity | DevOps | Cloud Computing | Networking </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sourabh-dey">
@@ -70,7 +70,7 @@
 
 <!-- Summary Section -->
 ## Summary
-- Passionate tech geek with a focus on automation, machine learning, and AI.
+- Passionate tech geek with a focus on automation, machine learning, and AI, Computer Networks.
 - Committed to continuous learning and professional growth.
 - I do a lot of prompt engineering with one constant prompt - "Explain everything you have done till now!"
 - If you can define your problem properly to me, I can refine it for sure! 
@@ -78,7 +78,7 @@
 ---
 
 <!-- Let's Connect Section -->
-<h1 align="center">Let's Connect and Innovate Together! 🚀</h1>
+<h1 align="center">Let's Connect and Innovate Together! </h1>
 
 ---
 
